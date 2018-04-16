@@ -8,5 +8,5 @@ if input == "exit"
 end
 
 if input == rand(1..6)
-
+  puts "You guessed the correct number!"
 end
