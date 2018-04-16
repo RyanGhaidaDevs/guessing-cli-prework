@@ -8,8 +8,12 @@ if input == "exit"
 end
 
 if input == x
+
   puts "You guessed the correct number!"
+
 else
+
   puts "The computer guessed #{x}."
+  
 end
 end
