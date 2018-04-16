@@ -7,13 +7,13 @@ if input == "exit"
   puts "Goodbye!"
 end
 
-if input == x
+if input == x.to_s
 
   puts "You guessed the correct number!"
 
 else
 
   puts "The computer guessed #{x}."
-  
+
 end
 end
